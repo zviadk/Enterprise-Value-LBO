@@ -1,2 +1,3 @@
 # Enterprise-Value-LBO
 Valuation impact of a leveraged buyout
+#This spreadsheet models the valuation impact of a leveraged buyout (LBO) by analyzing pre- and post-LBO weighted average cost of capital (WACC), return on invested capital (ROIC), and equity value creation. It #incorporates financial metrics such as the cost of debt, equity beta adjustments using the Fernandez equation, and enterprise valuation based on future economic value added (EVA). Key calculations include pre- and #post-LBO firm valuation, debt levels, and shareholder benefits, quantifying the financial and operational improvements resulting from the transaction.
